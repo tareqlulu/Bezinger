@@ -31,7 +31,7 @@ body{
 /*.hero{
     position: relative;
     top: 0px;
-    background-image: url("../img/bezinger/hero.jpg");
+    background-image: url("../img/hero.jpg");
     height: auto;
 }*/
 .header_section{
@@ -89,7 +89,7 @@ body{
 .hero{
     width: 100%;
     height: auto;
-    background-image: url("../img/bezinger/hero.jpg");
+    background-image: url("../img/hero.jpg");
     padding: 85px 0px 0px 0px;
     border-bottom: 3px solid #4bcaff;
 }
@@ -283,7 +283,7 @@ a.heroBtn:hover, .heroDesc a.active{
 .video_section{
     width: 100%;
     height: auto;
-    background-image: url("../img/bezinger/vedioBg.jpg");
+    background-image: url("../img/vedioBg.jpg");
     padding: 85px 0px 85px 0px;
     /*border-bottom: 3px solid #4bcaff;*/
 }
